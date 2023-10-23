@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "forneça um número"
+read a
+echo "forneça outro número"
+read b
+soma=$((a+b))
+
+echo "a Soma é: $soma"
